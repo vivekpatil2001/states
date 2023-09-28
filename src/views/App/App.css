@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(123, 188, 215);
+}
+.text-center{
+    text-align: center;
+    
+}
+.search{
+    height: 45px;
+    width: 320px;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 20px;
+    font-size: 25px;
+}
+.contaain-card{
+overflow-y: scroll;
+
+}
+.contaain-card::-webkit-scrollbar{
+    width: 1px;
+}
